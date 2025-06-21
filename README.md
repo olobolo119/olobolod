@@ -36,4 +36,4 @@ $ npm run start
 ### What is Chewiekie?
 We create beautiful free themes and resources in ReactJS as well as develop and test high-quality web-applications using HTML5, CSS3, and Javascript.
 
-[Chewiekie.com](https://chewiekie.com)
+[Chewiekie.com](https://chewiekie.com) i am olaf btw
